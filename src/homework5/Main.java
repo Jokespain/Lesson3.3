@@ -73,3 +73,4 @@ public class Main {
         System.out.println("Are house1 and house2 have some hashcode? : " + house1.equals(house2));
     }
 }
+////
